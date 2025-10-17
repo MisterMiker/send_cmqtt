@@ -7,7 +7,7 @@ import platform
 # -------------------------------
 # 🔹 Configuración inicial
 # -------------------------------
-st.set_page_config(page_title="Control MQTT Mejorado", page_icon="📡", layout="centered")
+st.set_page_config(page_title="Control MQTT", page_icon="📡", layout="centered")
 
 st.markdown("""
 <style>
