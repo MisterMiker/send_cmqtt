@@ -29,7 +29,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("📡 Control MQTT Mejorado")
+st.title("📡 Control MQTT")
 st.write("Versión de Python:", platform.python_version())
 
 # -------------------------------
